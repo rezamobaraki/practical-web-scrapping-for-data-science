@@ -2,7 +2,7 @@
 
 ![python](assets/real_python.png)
 
-Hello friends of this [Mr.Rezoo](https://www.linkedin.com/in/reza-mobaraki/)
+Hello friends of this [Reza Mobaraki](https://www.linkedin.com/in/reza-mobaraki/)
 
 In this repository we want to explore the depths of crawling and scraping
 
@@ -109,7 +109,7 @@ scrapy crawl <spider-name> -o <file-name.extention>
 
 ## Contributors
 
-* [MrRezoo](https://github.com/MrRezoo)
+* [rezamobaraki](https://github.com/rezamobaraki)
 * Seppe vanden Broucke | author of Practical Web Scraping and Crawling for Data
   Science
 
